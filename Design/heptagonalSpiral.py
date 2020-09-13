@@ -2,7 +2,7 @@ from turtle import *
 import random
 
 #set the title
-title('Pentagon Spiral')
+title('Heptagon Spiral')
 
 #colors for the pentagon
 color = ['red','yellow','blue','green','cyan','orange','pink']
